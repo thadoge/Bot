@@ -1,10 +1,1 @@
-Mon Nov 22 10:46:25 2021 : 400 Bad Request (error code: 50074): Cannot delete a channel required for community servers
-Mon Nov 22 10:46:26 2021 : 400 Bad Request (error code: 50074): Cannot delete a channel required for community servers
-Mon Nov 22 16:24:07 2021 : invalid literal for int() with base 10: 'sex'
-Mon Nov 22 16:25:42 2021 : 400 Bad Request (error code: 50074): Cannot delete a channel required for community servers
-Mon Nov 22 16:25:50 2021 : 404 Not Found (error code: 10003): Unknown Channel
-Mon Nov 22 16:25:55 2021 : 400 Bad Request (error code: 50074): Cannot delete a channel required for community servers
-Mon Nov 22 16:26:59 2021 : invalid literal for int() with base 10: 'palic-zydow'
-Mon Nov 22 16:47:46 2021 : invalid literal for int() with base 10: 'palic-zydow'
-Mon Nov 22 16:57:05 2021 : invalid literal for int() with base 10: '@everyone@everyone\ufeff@everyone \ufeff@everyone \ufeff@everyone \ufeff@everyone \ufeff@everyone \ufeff@everyone \ufeff@everyone \ufeff@everyone \ufeff@everyone \ufeff@everyone \ufeff@everyone \ufef
-Mon Nov 22 16:57:12 2021 : invalid literal for int() with base 10: '@everyone@everyone\ufeff@everyone \ufeff@everyone \ufeff@everyone \ufeff@everyone \ufeff@everyone \ufeff@everyone \ufeff@everyone \ufeff@everyone \ufeff@everyone \ufeff@everyone \ufeff@everyone \ufef
+
