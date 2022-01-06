@@ -13,3 +13,5 @@ To jest ten psychiczny bot z odcinka. Instrukcja obsługi tutaj.
 Więcej nie pamiętam ale z nich korzystałem bo tak.
 
 ###### Bot nie jest mój ale autora nie pamiętam
+
+# Jeśli ktoś myśli, że to wirus to [tu macie skan](https://www.virustotal.com/gui/file/a1ea0d96d6ebb8587c2e9a3af50b9b95893229e66dc9038271c19c465e1e4432) 
