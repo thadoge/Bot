@@ -9,7 +9,8 @@ To jest ten psychiczny bot z odcinka. Instrukcja obsługi tutaj.
 
 ## Lista Komend
 1. !nuke - niszczy cały serwer.
-2. !spam - tworzy kanały ileś razy i pod ustaloną nazwą
+2. !spam - tworzy kanały ileś razy i pod ustaloną nazwą.
+
 Więcej nie pamiętam ale z nich korzystałem bo tak.
 
 ###### Bot nie jest mój ale autora nie pamiętam
